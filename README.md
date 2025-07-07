@@ -1,2 +1,2 @@
 # SoulBuddyv1
-his is Version 1 of **SoulBuddy** – a AI-style emotional support bot made for people who just need a friend to talk to.
+this is Version 1 of **__SoulBuddy__** – a AI-style emotional support bot made for people who just need a friend to talk to.
