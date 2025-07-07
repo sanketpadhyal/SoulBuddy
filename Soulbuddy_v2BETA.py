@@ -30,7 +30,7 @@ def start_animation():
         time.sleep(0.6)
     
     print("\n★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★")
-    print("      🤖 SoulBuddy – v1 Terminal      ")
+    print("      🤖 SoulBuddy – v2 BETA Terminal      ")
     print("     Built with 💙 by VortexByte      ")
     print("★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★\n")
     time.sleep(1)
