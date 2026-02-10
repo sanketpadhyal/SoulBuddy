@@ -15,6 +15,7 @@ SoulBuddy v1 is an AI-style emotional support chatbot created to provide a frien
 Version 1 includes password protection for development and testing.  
 Future versions focus on improving usability and security.
 
-## Project Information
+---
 
+### 📅 Project Information
 Initial Release: July 7, 2025
