@@ -18,4 +18,4 @@ Future versions focus on improving usability and security.
 ---
 
 ### 📅 Project Information
-Initial Release: July 7, 2025
+Created: July 7, 2025
